@@ -1,0 +1,6 @@
+PyQt6
+Pillow
+transformers
+groq
+python-dotenv
+torch
